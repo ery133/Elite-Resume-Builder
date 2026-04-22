@@ -1,4 +1,4 @@
-# EliteResume AI 🚀
+# EliteResume 
 ### Next-Gen AI Resume Engine & ATS Optimizer
 
 EliteResume AI is a high-performance, full-stack application designed to help job seekers bypass Applicant Tracking Systems (ATS) and land more interviews. Powered by **Llama 3.3 (via Groq)** and **Tesseract.js**, it offers a deep, data-driven approach to resume building.
@@ -12,16 +12,16 @@ EliteResume AI is a high-performance, full-stack application designed to help jo
 
 ## ✨ Key Features
 
-- **🤖 AI-Powered Parsing:** Instantly convert existing PDFs, Word docs, or even images into a structured, editable resume.
-- **📊 Stringent ATS Scan:** A weighted scoring engine that analyzes keywords, action verbs, and impact metrics.
-- **🔍 JD Matcher:** Paste a Job Description to get real-time optimization suggests to hit a 90+ match score.
-- **🖼️ OCR Integration:** Built-in Tesseract.js allows you to scan physical documents or image files of JDs.
-- **📄 Elite Export:** Professional PDF generation with `@react-pdf/renderer` and Word export support.
-- **🧠 AI Agent Lab:** Generate tailored Cover Letters and Interview Prep questions in seconds.
+- ** AI-Powered Parsing:** Instantly convert existing PDFs, Word docs, or even images into a structured, editable resume.
+- ** Stringent ATS Scan:** A weighted scoring engine that analyzes keywords, action verbs, and impact metrics.
+- ** JD Matcher:** Paste a Job Description to get real-time optimization suggests to hit a 90+ match score.
+- ** OCR Integration:** Built-in Tesseract.js allows you to scan physical documents or image files of JDs.
+- ** Elite Export:** Professional PDF generation with `@react-pdf/renderer` and Word export support.
+- ** AI Agent Lab:** Generate tailored Cover Letters and Interview Prep questions in seconds.
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Frontend
 - **Framework:** React 19 + Vite
@@ -36,7 +36,7 @@ EliteResume AI is a high-performance, full-stack application designed to help jo
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 ### 1. Clone & Install
 ```bash
@@ -59,20 +59,5 @@ NODE_ENV=development
 ```bash
 # Start both Frontend and Backend concurrently
 npm run dev
-```
-
----
-
-## 📸 Screenshots
-*(Add your screenshots here to show off the premium UI!)*
-
----
-
-## 🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-This project is licensed under the MIT License.
-
 ---
 *Built with ❤️ for every job seeker.*
